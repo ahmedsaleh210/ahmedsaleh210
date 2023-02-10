@@ -30,7 +30,7 @@
      @age = 21
      @work = [ 'Flutter Dev', 'Software Eng' ]
      @education = [ 'Compuer Science', 'Mansoura University ]
-     @hobbies = [ 'Gaming', 'Chess', 'Problem Solving' ]
+     @hobbies = [ 'Gaming', 'Chess', 'Problem Solving', 'TV Series',]
    end
 
    def current_location
