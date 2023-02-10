@@ -21,7 +21,7 @@
 
 
 
-<h3> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
  ```ruby
  class Sy < Person
