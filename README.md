@@ -70,7 +70,7 @@
   ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Ahmed Saleh's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ahmed Saleh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&show_icons=true&title_color=f6c32c&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Ahmed Saleh's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ahmed Saleh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
