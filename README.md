@@ -24,7 +24,7 @@
 <h3> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
  ```ruby
- class Sy < Person
+ class Ahmed < Person
    def initialize
      @name = 'Ahmed Saleh'
      @age = 21
