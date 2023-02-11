@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-up-5D3FD3) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=ahmedsaleh210&color=5D3FD3&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/ahmedasale210)
 
-<h2 align="center">
+<h2 align="left">
   Let's Connect and have a Chat!💬
 </h2>
 
@@ -21,7 +21,7 @@
 
 
 
-<h2> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
+<h3> 👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
  ```ruby
  class Sy < Person
@@ -30,7 +30,7 @@
      @age = 21
      @work = [ 'Flutter Dev', 'Software Eng' ]
      @education = [ 'Compuer Science', 'Mansoura University ]
-     @hobbies = [ 'Gaming', 'Chess', 'Problem Solving', 'TV Series',]
+     @hobbies = [ 'Gaming', 'Chess', 'Problem Solving' ]
    end
 
    def current_location
@@ -66,11 +66,11 @@
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
   ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Ahmed Saleh's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ahmed Saleh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
