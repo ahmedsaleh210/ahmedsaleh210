@@ -47,7 +47,7 @@
  ```
 
 
-  ## Languages and Tools 🛠 
+  ## Tech Stack 🛠 
 
 <br/>
 <p align="center">  
@@ -67,12 +67,16 @@
  
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ahmedsaleh210/ahmedsaleh210/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-  ### Quick stats about me
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedsaleh210&theme=onedark)](
+
+## 📊 GitHub Stats:
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Ahmed Saleh's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ahmed Saleh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&show_icons=true&title_color=e851e8&icon_color=e851e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleh210&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | ![Ahmed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&layout=compact&theme=radical) |
