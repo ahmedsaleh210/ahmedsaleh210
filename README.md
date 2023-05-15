@@ -74,7 +74,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedsaleh210&theme=onedark)](
+![trophy](https://github-profile-trophy.vercel.app/?username=ahmedsaleh210&theme=onedark)]
 
 ## 📊 GitHub Stats:
 | Github Stats | Top Languages |
