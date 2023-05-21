@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/96204940/218309657-74ff2bb9-025d-4b40-aedd-35806c07f91d.png"/>
 </p>
 
-![status](https://img.shields.io/badge/status-up-5D3FD3) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/ahmedasale210)
+![status](https://img.shields.io/badge/status-up-5D3FD3) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://komarev.com/ghpvc/?username=ahmedsaleh210&label=Profile%20views&color=blue&countColor=%237B1E7B&style=flat)
 
 <h2 align="left">
   Let's Connect and have a Chat!💬
