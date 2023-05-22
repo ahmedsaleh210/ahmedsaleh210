@@ -65,6 +65,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/mena_en/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
+<a href="docker.com" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40"/> </a>
 </p>
  
  <h2> 📈 &nbsp;My GitHub History!</h2>
