@@ -27,7 +27,7 @@
  class Ahmed < Person
    def initialize
      @name = 'Ahmed Saleh'
-     @age = 21
+     @age = 22
      @work = [ 'Flutter Dev', 'Software Eng' ]
      @education = [ 'Compuer Science', 'Mansoura University ]
      @hobbies = [ 'Gaming', 'Chess', 'Problem Solving' ]
