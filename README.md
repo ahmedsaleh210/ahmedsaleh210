@@ -70,7 +70,7 @@
  
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/ahmedsaleh210/ahmedsaleh210/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/ahmedsaleh210/ahmedsaleh210/output/snake.svg" alt="Snake animation" />
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
