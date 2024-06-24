@@ -82,4 +82,4 @@
 ## 📊 GitHub Stats:
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsaleh210&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | ![Ahmed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&layout=compact&theme=radical) |
+| ![Ahmed's GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=ahmedsaleh210&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866) | ![Ahmed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaleh210&layout=compact&theme=radical&title_color=F85D7F&bg_color=1F222E) |
