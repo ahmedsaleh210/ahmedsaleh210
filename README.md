@@ -25,9 +25,9 @@
    def initialize
      @name = 'Ahmed Saleh'
      @age = 24
-     @work = [ 'Flutter Dev', 'Software Eng' ]
-     @education = [ 'Compuer Science', 'Mansoura University ]
-     @hobbies = [ 'Gaming', 'Chess', 'Problem Solving' ]
+     @work = [ 'Flutter Developer', 'Software Engineer' ]
+     @education = [ 'Computer Science', 'Mansoura University' ]
+     @hobbies = ['Gym', 'Gaming', 'Chess', 'Problem Solving', 'TV Shows' ]
    end
 
    def current_location
